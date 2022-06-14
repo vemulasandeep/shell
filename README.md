@@ -1,1 +1,4 @@
-# shell
+Learning Shell 
+
+Sandeep 
+Vemula

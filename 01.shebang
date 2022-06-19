@@ -3,4 +3,6 @@ ls -al
 cat /etc/shells
 pwd
 
+echo "Hello World"
+
 #Shell comments

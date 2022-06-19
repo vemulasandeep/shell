@@ -1,4 +1,3 @@
-#!/bin/bash
 ls -al
 cat /etc/shells
 pwd

@@ -3,5 +3,7 @@ cat /etc/shells
 pwd
 
 echo "Hello World"
+echo "Sandeep Vemula"
+print "Sandeep"
 
 #Shell comments

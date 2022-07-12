@@ -1,4 +1,4 @@
-print "Hello Sandeep"
-print "sandeep"
+echo "Hello Linux"
+echo "Hello Sandeep"
 
 // commments
